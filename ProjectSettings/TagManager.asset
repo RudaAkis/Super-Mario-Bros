@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GroundBlock
+  - FallZone
+  - LittleGooba
+  - Pipe
+  - Trigger
+  - SolidBlock
+  - BreakableBrick
+  - CoinBlock
+  - GrowSound
+  - SuperMario
+  - FieryMario
+  - KoopaTroopa
+  - Fireball
+  - InvisibleBlock
+  - Spring
+  - KoopaTroopaShell
+  - Fish
+  - Beetle
+  - MapSpawController
+  - FireBar
+  - Bowser
+  - BowserFire
+  - BeanBlock
+  - BeanStem
+  - Squid
+  - F
+  - D
+  - A
+  - G
+  - BL
+  - Bullet
+  - LavaBall
+  - Spiny
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Sky
+  - Buildings
+  - PlayerObjects
+  - Ground
+  - 
+  - 
+  - 
+  - IgnoreCollisions
+  - Bricks
+  - HammerBrother
+  - Camera
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 1180146991
+    locked: 0
+  - name: BackgroundObjects
+    uniqueID: 782106431
+    locked: 0
+  - name: SecondaryObjects
+    uniqueID: 1417517691
+    locked: 0
+  - name: MainObjects
+    uniqueID: 1627630323
+    locked: 0
+  - name: Mario
+    uniqueID: 37961973
+    locked: 0
+  - name: Pipes
+    uniqueID: 398066183
+    locked: 0
+  - name: Bullet
+    uniqueID: 2477523731
+    locked: 0

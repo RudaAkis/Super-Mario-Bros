@@ -1,0 +1,2324 @@
+fileFormatVersion: 2
+guid: c123f2dee124bb341b398be4d5f95834
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Koopa Troopa_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 236
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093689fe692aaec4c9de0e0b47a5276a
+      internalID: 1937604126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 236
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0830459a9d07234aa24a7d408bbccaf
+      internalID: -1991037666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 236
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a9ba43f79965e45854a76775e48c2d
+      internalID: -692912961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 236
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8bec7530d08454f88ca0e41f7fa514
+      internalID: 205387321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 236
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a8946b563b2ab4e9f516eff3368a43
+      internalID: 1454561547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 236
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee07f0104261d940b67a5c8e297a12b
+      internalID: 636349044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 236
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b24249a289cc15479ce8fe5680825b7
+      internalID: -1099431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 236
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a501060b556d9498aa6e8e5aeb2df6
+      internalID: -1753768109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 236
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81c33b785caf294cb6375892d059e41
+      internalID: -893698054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 236
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72601d029d2ec864c84281dafac5a74e
+      internalID: -701068911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 236
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a20661602ebbdb40a6eb16fddebdbe9
+      internalID: -2000866051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 236
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6082c2c6a068a7e4ba4e1a3f5c94444e
+      internalID: 297418774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 236
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72afe39df23f21246882bfb97ed36ca1
+      internalID: -869605827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 206
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49e7c7cd94637c488c62ae53e62ed85
+      internalID: -1886484391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 206
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feda455511b3f194fa5d624d6a844a10
+      internalID: 1600160839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 206
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee587cc8951bf64a926f79f3db9cf6e
+      internalID: 1089428403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 206
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e95c1901e0b64a81e006136ce562c
+      internalID: -704218912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_17
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 206
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a1dd6c76594004f9fa3a4186dac876
+      internalID: 1752034352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 206
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b03d73ba3cb9d4da98e3e0776ec85a
+      internalID: -1598282771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 206
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cc27bcf174f414d96e03b26357f4c3
+      internalID: -617377004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_20
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 206
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9c1fb477e578f4b8ffbdb63fa35b21
+      internalID: 1890781170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 206
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152bd6a2a26c4a8468cce59b1b53e2c4
+      internalID: -854425896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 206
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8819ed5616ee904fa726ea5c4a93996
+      internalID: 875860398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 206
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c67f1bb823cec419681b629d291248
+      internalID: -248652435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_24
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 206
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe456ae62f8c9a4a92ec7d474eba890
+      internalID: 139736277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_25
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 206
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb17415e05275e5459e523cab36f7606
+      internalID: 548918868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 176
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d278b3621c5f34e4dbaec5ea9ea98915
+      internalID: 626790328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_27
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 176
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1304cb4da8f1a4bac4d3808ff25361
+      internalID: -1919237657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 176
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087e747a0b627cc43b9517375afa1b43
+      internalID: -1400982078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_29
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 176
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aa529bf2660734aa1335bee76faf16
+      internalID: -118350328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 176
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ab634f2734da54eaf84978fbcd2111
+      internalID: -979766905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_31
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 176
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c577e47b12a494c813c870c4fb3e82
+      internalID: 1616139980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2616220a3c9b84c83952f0c9eebcea
+      internalID: -2132575441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 176
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af5163f4dd331444bcea4e5c794f3da
+      internalID: -1174556302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 176
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3acd8c2218659a4f979e3f3f9222deb
+      internalID: -764920096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_35
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 176
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b98e20402a75fc409d076141dacce41
+      internalID: -1882867323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_36
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 176
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed19817f86d1cc6409b055ee02e97c14
+      internalID: -1755825874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_37
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 176
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f974aaa668bd71346bd71ebfc96ade59
+      internalID: 666102247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_38
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 176
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e24ad7d21877d4982ab08833574cd9
+      internalID: -288544750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_39
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 146
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9836a6c4c9702499a9ff9f47e63c8c
+      internalID: -1657936837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_40
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 146
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc86aff8d9242a49a064e5b0e009369
+      internalID: -1719669822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 146
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa5f5bb6bc6c354da718e0ffcf5d5d3
+      internalID: -1942828268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_42
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 146
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d72222ef0794d949b690e8565e0c9ad
+      internalID: 219574440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 146
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a15775b475055459e77bbe36eb593a
+      internalID: -318741580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_44
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 146
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4b502ba93b22c4ba6b0b1907f8f931
+      internalID: 139978506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 146
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843796a9789287840b80b7cd288abead
+      internalID: -1047711947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_46
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 146
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a547a4d8694d1499db142f77d066e4
+      internalID: -1785700137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_47
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 146
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608ce3f5cd17f2942b26ddd4cbe5d307
+      internalID: 1555025988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_48
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 146
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f1ef3eb5cb14448bfed45cc4080e70
+      internalID: 1327891824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_49
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 146
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7013b5d9f620cd40b8d0fe1034f2b77
+      internalID: 887735229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_50
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 146
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3937b43278ce03249beff050019b24e1
+      internalID: 1350092773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_51
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 146
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a30195dc0d7a9643897da1d09cc4dea
+      internalID: -788525149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_52
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 116
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90070c158b344dd4d88d1eea8f91f9f4
+      internalID: -1231373460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_53
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 116
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168cedf6060660946b2960ebfc24d4db
+      internalID: -903979940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_54
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 116
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d886a3b65a4404296d678b12865cf3
+      internalID: 1844108176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_55
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 116
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf788c2d1a6ba14f9a2c6f6834718e7
+      internalID: 2034089228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_56
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 116
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ecad64b3371ba49b9f84d2ca6da919
+      internalID: -413420773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_57
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 116
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bced8e4a5f54742a3e18a33bd2708f
+      internalID: -1830574908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 116
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda95a66b898b3d4e8770cca0a063554
+      internalID: -1123969509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_59
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 116
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0c9c236cd4808489f97b0248963f7a
+      internalID: -2051866388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_60
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 116
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3d1280db989524eb2f701f19d9e428
+      internalID: -1754395768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_61
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 116
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e3392fb63dad64b8822091e1871a21
+      internalID: 1226840499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_62
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 116
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1f5e0b8e19b71438aaa89f8dae0127
+      internalID: -374298846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_63
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 116
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf8345ca4b3d244bada5cb15586bad1
+      internalID: 1405162809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_64
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 116
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76483efd70fc03944938e48ae93cac50
+      internalID: 1095008934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_65
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc8962dc90bcbb489422441fda1c2d6
+      internalID: 1167600008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_66
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f742db86c82b44cbe68e098a2cd602
+      internalID: -1539658224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_67
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616dc77e8695ce44998b506e1b33b967
+      internalID: -244353782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_68
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e213ff72935bd47b059b4e7f6b905f
+      internalID: 569472959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_69
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72743d998a18863449554d25afd8618f
+      internalID: -683794115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_70
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13a1a713e419e942b9bc6392caf0483
+      internalID: 927187967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c584bb55a424e8c4ab946419b28147a6
+      internalID: -2065583057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_72
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8510029c3ad5ff4c9a3898df7621f0e
+      internalID: -805874576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_73
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97297c29b225b049bc2c832ecd54302
+      internalID: -2083823156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_74
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421350fc2ead91841a37bf2bb60dc2ec
+      internalID: 1131565688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_75
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dead7021897f2e140a54fae8397596c6
+      internalID: -1636526390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_76
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 86
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92d8bec9a5738447b24aa9623443e82
+      internalID: -44140749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_77
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 56
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e085cc4a3d0a842824e97d6a37bc28
+      internalID: -415033113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_78
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 56
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1948d0613a9e3d5449e95f84bc067dd0
+      internalID: -113905279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_79
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc551e5b926550a438dbc32a590060c3
+      internalID: 1345544504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_80
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 56
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5c370c202823c4097735615fe6b44b
+      internalID: 89871285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_81
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 56
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dc0a19fe1b2c74c80b92750f9cbd9f
+      internalID: 897244556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_82
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 56
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f35f1a47f7c822498dab5dac802cd5c
+      internalID: -1907203026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 56
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd2721ef43f61741a6deeb5cc576c55
+      internalID: 1836696734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_84
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 56
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3121ff0225794197b0f7f5797fb43
+      internalID: 521592449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_85
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 56
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b259fa40df24da4a8e6607975c0d7c5
+      internalID: -2138098449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_86
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 56
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb35acfa14c0d28428de5d137483a113
+      internalID: -945415256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_87
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 56
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3044663f7ad1e5438f91e701d6efb1f
+      internalID: -1156124641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_88
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 56
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165563d89e89669438bbf36994fd0547
+      internalID: 393270786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_89
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 56
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f14a6023cd37cb4b9c72d671f845aad
+      internalID: 1610419554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_90
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 26
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ce0a6c95a0cbd4c8bace7a752f63e5
+      internalID: -165900026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_91
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 26
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a95a5a9d34a4241892766d490a0704
+      internalID: 490330431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_92
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 26
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5635d9049d851842a1ef36137bbd0f3
+      internalID: 1952505366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_93
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 26
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af2bd8c8c28abb439a4ed10ed72d138
+      internalID: 757428820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_94
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 26
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f32f548ee6d584e93896d716c30253
+      internalID: -1370474814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_95
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 26
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57f4f18de7d76041ac97cbfa548089e
+      internalID: -862359301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_96
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 26
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d95320336334d145a7d8cb16d909152
+      internalID: -1445651495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_97
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 26
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96650ea8c53d05d4099ba2d3f175263c
+      internalID: 716388926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_98
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 26
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373578a5187832840ac64a4409fd4c1c
+      internalID: -1775946762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Koopa Troopa_99
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 26
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2bda9fdd43bc24eb5cd235e0cc5d98
+      internalID: 1404592415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Koopa Troopa_54: 1844108176
+      Koopa Troopa_13: -1886484391
+      Koopa Troopa_47: 1555025988
+      Koopa Troopa_94: -1370474814
+      Koopa Troopa_44: 139978506
+      Koopa Troopa_85: -2138098449
+      Koopa Troopa_65: 1167600008
+      Koopa Troopa_12: -869605827
+      Koopa Troopa_89: 1610419554
+      Koopa Troopa_76: -44140749
+      Koopa Troopa_87: -1156124641
+      Koopa Troopa_8: -893698054
+      Koopa Troopa_20: 1890781170
+      Koopa Troopa_62: -374298846
+      Koopa Troopa_77: -415033113
+      Koopa Troopa_61: 1226840499
+      Koopa Troopa_56: -413420773
+      Koopa Troopa_21: -854425896
+      Koopa Troopa_60: -1754395768
+      Koopa Troopa_14: 1600160839
+      Koopa Troopa_46: -1785700137
+      Koopa Troopa_28: -1400982078
+      Koopa Troopa_18: -1598282771
+      Koopa Troopa_66: -1539658224
+      Koopa Troopa_1: -1991037666
+      Koopa Troopa_3: 205387321
+      Koopa Troopa_95: -862359301
+      Koopa Troopa_58: -1123969509
+      Koopa Troopa_57: -1830574908
+      Koopa Troopa_48: 1327891824
+      Koopa Troopa_82: -1907203026
+      Koopa Troopa_6: -1099431
+      Koopa Troopa_5: 636349044
+      Koopa Troopa_10: -2000866051
+      Koopa Troopa_63: 1405162809
+      Koopa Troopa_93: 757428820
+      Koopa Troopa_24: 139736277
+      Koopa Troopa_75: -1636526390
+      Koopa Troopa_92: 1952505366
+      Koopa Troopa_73: -2083823156
+      Koopa Troopa_38: -288544750
+      Koopa Troopa_11: 297418774
+      Koopa Troopa_15: 1089428403
+      Koopa Troopa_72: -805874576
+      Koopa Troopa_17: 1752034352
+      Koopa Troopa_67: -244353782
+      Koopa Troopa_25: 548918868
+      Koopa Troopa_19: -617377004
+      Koopa Troopa_50: 1350092773
+      Koopa Troopa_97: 716388926
+      Koopa Troopa_71: -2065583057
+      Koopa Troopa_40: -1719669822
+      Koopa Troopa_59: -2051866388
+      Koopa Troopa_64: 1095008934
+      Koopa Troopa_36: -1755825874
+      Koopa Troopa_22: 875860398
+      Koopa Troopa_34: -764920096
+      Koopa Troopa_79: 1345544504
+      Koopa Troopa_99: 1404592415
+      Koopa Troopa_45: -1047711947
+      Koopa Troopa_27: -1919237657
+      Koopa Troopa_29: -118350328
+      Koopa Troopa_90: -165900026
+      Koopa Troopa_0: 1937604126
+      Koopa Troopa_51: -788525149
+      Koopa Troopa_30: -979766905
+      Koopa Troopa_86: -945415256
+      Koopa Troopa_43: -318741580
+      Koopa Troopa_41: -1942828268
+      Koopa Troopa_68: 569472959
+      Koopa Troopa_53: -903979940
+      Koopa Troopa_33: -1174556302
+      Koopa Troopa_91: 490330431
+      Koopa Troopa_4: 1454561547
+      Koopa Troopa_83: 1836696734
+      Koopa Troopa_26: 626790328
+      Koopa Troopa_31: 1616139980
+      Koopa Troopa_80: 89871285
+      Koopa Troopa_42: 219574440
+      Koopa Troopa_39: -1657936837
+      Koopa Troopa_88: 393270786
+      Koopa Troopa_84: 521592449
+      Koopa Troopa_55: 2034089228
+      Koopa Troopa_49: 887735229
+      Koopa Troopa_7: -1753768109
+      Koopa Troopa_98: -1775946762
+      Koopa Troopa_32: -2132575441
+      Koopa Troopa_35: -1882867323
+      Koopa Troopa_23: -248652435
+      Koopa Troopa_74: 1131565688
+      Koopa Troopa_52: -1231373460
+      Koopa Troopa_70: 927187967
+      Koopa Troopa_9: -701068911
+      Koopa Troopa_37: 666102247
+      Koopa Troopa_78: -113905279
+      Koopa Troopa_2: -692912961
+      Koopa Troopa_16: -704218912
+      Koopa Troopa_96: -1445651495
+      Koopa Troopa_81: 897244556
+      Koopa Troopa_69: -683794115
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
